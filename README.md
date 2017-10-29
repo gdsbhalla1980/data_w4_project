@@ -15,5 +15,5 @@ The dataset includes the following files:
 
 - 'reshaped_data.txt' : Processed data
 
-run_analysis.R script is used to generata reshaped_data and Codebook.
+- run_analysis.R script is used to generata reshaped_data and Codebook.
 To run the script it should be saved in the UCI HAR Dataset directory which is extracted after unzipping the data.
