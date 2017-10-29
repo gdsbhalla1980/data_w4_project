@@ -5,7 +5,7 @@ Week 4 data getting and cleaning Assignment
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
 - 'Codebook_info.txt': Shows information about the variables used on the feature vector.
 
